@@ -1,0 +1,19 @@
+
+.card-title-item{
+    text-align : center;
+    color: white;
+}
+
+.card-text-category{
+    color:white;
+    text-align: center;
+}
+
+.card-text-price{
+    text-align: center;
+    color: white;
+}
+
+.card-text-stock{
+    color: white;
+}
